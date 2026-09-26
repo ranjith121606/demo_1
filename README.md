@@ -1,2 +1,3 @@
 # demo_1
-this is mu first repository
+this is my first repository 
+ranjith kumar
